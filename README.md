@@ -23,7 +23,7 @@ database.sql
 3. Compile:
    javac Main.java DBConnection.java
 4. Run:
-   java Main
+     java Main
 
 ## Authors
 - Jayesh Wagh
